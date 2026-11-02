@@ -5,8 +5,8 @@ A Flutter mobile application that checks device location services, requests perm
 ---
 
 ## 👤 Student Information
-* **Name:** Mr. Natthaphon Pilachai
-* **Student ID:** 6630300262
+* **Name:** Mr. Sirasit Songpaeng
+* **Student ID:** 6630300807
 * **University:** Kasetsart University, Sriracha Campus
 * **Course:** 03603437 - Mobile Application Development
  (Lab 8: Flutter Packages, Location Services, and OpenStreetMap)
